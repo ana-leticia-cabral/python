@@ -1,2 +1,3 @@
-nome = input('Qual é o seu nome?')
-print('É um grande prazer te conhecer ', nome)
+# Desafio 001: Crie um programa que escreva "Olá, Mundo!" na tela.
+
+print('Olá, Mundo!')
